@@ -1,0 +1,62 @@
+.background orange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+  font-style: italic;
+  font-family: candara;
+  font-size: 180px;
+  color: blue;
+
+
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+}
+h2{
+  background-color: yellow;
+color: green;
+}
+h3{
+color: indigo;
+}
+h4{
+  color:blue;
+}
+  body{
+  background-color: pink;
+  }
+
+  nav{
+
+    display: inline-block;
+    padding: 50px
+    margin-left-auto;
+  }
+  p{
+    font-size: 25px
+    font style:italic;
+    font-weight: 800;
+  }
+  nav a:hover{
+    background-color: white;
+    background-position: center;
+  }
+
+
+  img{
+    width: 500px
+    height:800px
+  }
